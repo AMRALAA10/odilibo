@@ -1,0 +1,8 @@
+D:\projects\libs\odilibo\odilibo\bin\Debug\odilibo.exe.config
+D:\projects\libs\odilibo\odilibo\bin\Debug\odilibo.exe
+D:\projects\libs\odilibo\odilibo\bin\Debug\odilibo.pdb
+D:\projects\libs\odilibo\odilibo\obj\Debug\odilibo.csprojResolveAssemblyReference.cache
+D:\projects\libs\odilibo\odilibo\obj\Debug\odilibo.exe
+D:\projects\libs\odilibo\odilibo\obj\Debug\odilibo.pdb
+D:\projects\libs\odilibo\odilibo\bin\Debug\NameSpacesManager.dll
+D:\projects\libs\odilibo\odilibo\bin\Debug\NameSpacesManager.pdb

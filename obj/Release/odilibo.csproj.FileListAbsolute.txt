@@ -1,0 +1,5 @@
+D:\projects\libs\odilibo\odilibo\bin\Release\odilibo.exe.config
+D:\projects\libs\odilibo\odilibo\bin\Release\odilibo.exe
+D:\projects\libs\odilibo\odilibo\bin\Release\odilibo.pdb
+D:\projects\libs\odilibo\odilibo\obj\Release\odilibo.exe
+D:\projects\libs\odilibo\odilibo\obj\Release\odilibo.pdb
